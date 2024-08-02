@@ -1,0 +1,22 @@
+{
+    "https": [
+      "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=https&timeout=10000&country=all&ssl=all&anonymity=all",
+      "https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/https.txt"
+    ],
+    "http": [
+      "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all",
+      "https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt"
+    ],
+    "socks5": [
+      "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks5&timeout=10000&country=all&ssl=all&anonymity=all",
+      "https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt",
+      "https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/socks5.txt",
+      "https://raw.githubusercontent.com/elliottophellia/yakumo/master/results/socks5/global/socks5_checked.txt"
+    ],
+    "socks4": [
+      "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks4&timeout=10000&country=all&ssl=all&anonymity=all",
+      "https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/socks4.txt",
+      "https://raw.githubusercontent.com/elliottophellia/yakumo/master/results/socks4/global/socks4_checked.txt"
+    ]
+  }
+  
