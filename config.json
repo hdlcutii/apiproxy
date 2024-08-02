@@ -1,0 +1,8 @@
+{
+    "max_ms": 500,
+    "timeout": 1,
+    "check_google": true,
+    "fetch_interval": 900,
+    "site": "https://google.com"
+  }
+  
