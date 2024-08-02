@@ -6,7 +6,7 @@ const moment = require('moment');
 const beautify = require('json-beautify');
 
 const app = express();
-const port = 3000;
+const port = 80;
 
 // Load configuration
 const config = JSON.parse(fs.readFileSync('config.json', 'utf8'));
